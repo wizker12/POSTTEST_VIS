@@ -1,0 +1,16 @@
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\_2409106097_SayidAnnashirIkhwan.Form1.resources
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.vbproj.GenerateResource.cache
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.AssemblyInfoInputs.cache
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.AssemblyInfo.vb
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.vbproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\bin\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.exe
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\bin\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.deps.json
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\bin\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.runtimeconfig.json
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\bin\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.dll
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\bin\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.pdb
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.dll
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\refint\2409106097_SayidAnnashirIkhwan.dll
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.pdb
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\2409106097_SayidAnnashirIkhwan.genruntimeconfig.cache
+C:\Users\LOQ\source\repos\2409106097_SayidAnnashirIkhwan\2409106097_SayidAnnashirIkhwan\obj\Debug\net10.0-windows\ref\2409106097_SayidAnnashirIkhwan.dll
