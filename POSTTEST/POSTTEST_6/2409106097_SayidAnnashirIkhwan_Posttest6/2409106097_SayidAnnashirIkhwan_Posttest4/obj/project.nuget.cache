@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZVJpr+MUgsY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LOQ\\Desktop\\POSTTEST_VIS\\POSTTEST\\POSTTEST_6\\2409106097_SayidAnnashirIkhwan_Posttest6\\2409106097_SayidAnnashirIkhwan_Posttest4\\2409106097_SayidAnnashirIkhwan_Posttest5.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LOQ\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
